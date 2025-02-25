@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/raggavanjd/problem-solving/tree/master/0113-path-sum-ii) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
