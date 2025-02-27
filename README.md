@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raggavanjd/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raggavanjd/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
