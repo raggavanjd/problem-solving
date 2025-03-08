@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/raggavanjd/problem-solving/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/raggavanjd/problem-solving/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/raggavanjd/problem-solving/tree/master/0047-permutations-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raggavanjd/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/raggavanjd/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/raggavanjd/problem-solving/tree/master/0047-permutations-ii) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
