@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/raggavanjd/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raggavanjd/problem-solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/raggavanjd/problem-solving/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/raggavanjd/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raggavanjd/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/raggavanjd/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/raggavanjd/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raggavanjd/problem-solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/raggavanjd/problem-solving/tree/master/0113-path-sum-ii) |
 ## Backtracking
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/raggavanjd/problem-solving/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/raggavanjd/problem-solving/tree/master/0113-path-sum-ii) |
 ## String
 |  |
