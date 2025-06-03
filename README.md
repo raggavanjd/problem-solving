@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/raggavanjd/problem-solving/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/raggavanjd/problem-solving/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/raggavanjd/problem-solving/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/raggavanjd/problem-solving/tree/master/0338-counting-bits) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/raggavanjd/problem-solving/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/raggavanjd/problem-solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/raggavanjd/problem-solving/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/raggavanjd/problem-solving/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/raggavanjd/problem-solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raggavanjd/problem-solving/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/raggavanjd/problem-solving/tree/master/0118-pascals-triangle) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/raggavanjd/problem-solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/raggavanjd/problem-solving/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/raggavanjd/problem-solving/tree/master/0064-minimum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
