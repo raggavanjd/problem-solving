@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/raggavanjd/problem-solving/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/raggavanjd/problem-solving/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/raggavanjd/problem-solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raggavanjd/problem-solving/tree/master/0338-counting-bits) |
 ## Tree
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raggavanjd/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/raggavanjd/problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raggavanjd/problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/raggavanjd/problem-solving/tree/master/0322-coin-change) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raggavanjd/problem-solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0322-coin-change](https://github.com/raggavanjd/problem-solving/tree/master/0322-coin-change) |
 ## Simulation
 |  |
 | ------- |
