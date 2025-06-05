@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/raggavanjd/problem-solving/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/raggavanjd/problem-solving/tree/master/0118-pascals-triangle) |
+| [0132-palindrome-partitioning-ii](https://github.com/raggavanjd/problem-solving/tree/master/0132-palindrome-partitioning-ii) |
 | [0322-coin-change](https://github.com/raggavanjd/problem-solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raggavanjd/problem-solving/tree/master/0338-counting-bits) |
 ## Tree
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
+| [0132-palindrome-partitioning-ii](https://github.com/raggavanjd/problem-solving/tree/master/0132-palindrome-partitioning-ii) |
 ## Greedy
 |  |
 | ------- |
