@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/raggavanjd/problem-solving/tree/master/0132-palindrome-partitioning-ii) |
 | [0322-coin-change](https://github.com/raggavanjd/problem-solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raggavanjd/problem-solving/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
 ## Tree
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raggavanjd/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/raggavanjd/problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raggavanjd/problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Binary Tree
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
+| [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raggavanjd/problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raggavanjd/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/raggavanjd/problem-solving/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/raggavanjd/problem-solving/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
