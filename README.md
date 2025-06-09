@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/raggavanjd/problem-solving/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/raggavanjd/problem-solving/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/raggavanjd/problem-solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/raggavanjd/problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/raggavanjd/problem-solving/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/raggavanjd/problem-solving/tree/master/0268-missing-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/raggavanjd/problem-solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
