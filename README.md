@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/raggavanjd/problem-solving/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raggavanjd/problem-solving/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/raggavanjd/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 ## Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/raggavanjd/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/raggavanjd/problem-solving/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/raggavanjd/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
