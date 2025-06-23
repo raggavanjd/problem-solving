@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/raggavanjd/problem-solving/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/raggavanjd/problem-solving/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/raggavanjd/problem-solving/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/raggavanjd/problem-solving/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/raggavanjd/problem-solving/tree/master/0044-wildcard-matching) |
 | [0131-palindrome-partitioning](https://github.com/raggavanjd/problem-solving/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/raggavanjd/problem-solving/tree/master/0132-palindrome-partitioning-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/raggavanjd/problem-solving/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/raggavanjd/problem-solving/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
