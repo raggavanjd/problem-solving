@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/raggavanjd/problem-solving/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/raggavanjd/problem-solving/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/raggavanjd/problem-solving/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/raggavanjd/problem-solving/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raggavanjd/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/raggavanjd/problem-solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raggavanjd/problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/raggavanjd/problem-solving/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Binary Tree
