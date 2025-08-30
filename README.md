@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/raggavanjd/problem-solving/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/raggavanjd/problem-solving/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/raggavanjd/problem-solving/tree/master/0139-word-break) |
+| [0344-reverse-string](https://github.com/raggavanjd/problem-solving/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/raggavanjd/problem-solving/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/raggavanjd/problem-solving/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
