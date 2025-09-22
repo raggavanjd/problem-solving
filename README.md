@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/raggavanjd/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/raggavanjd/problem-solving/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/raggavanjd/problem-solving/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/raggavanjd/problem-solving/tree/master/0268-missing-number) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/raggavanjd/problem-solving/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Combinatorics
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/raggavanjd/problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/raggavanjd/problem-solving/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
