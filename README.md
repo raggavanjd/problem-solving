@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/raggavanjd/problem-solving/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/raggavanjd/problem-solving/tree/master/0416-partition-equal-subset-sum) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/raggavanjd/problem-solving/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/raggavanjd/problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/raggavanjd/problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/raggavanjd/problem-solving/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/raggavanjd/problem-solving/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
