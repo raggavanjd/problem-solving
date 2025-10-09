@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raggavanjd/problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raggavanjd/problem-solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/raggavanjd/problem-solving/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/raggavanjd/problem-solving/tree/master/0658-find-k-closest-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/raggavanjd/problem-solving/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raggavanjd/problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
